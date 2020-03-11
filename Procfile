@@ -1,1 +1,1 @@
-web: node server.js --logs -
+web: node server.js
